@@ -1,0 +1,1 @@
+install with `npm i` and run with `npm run dev`
